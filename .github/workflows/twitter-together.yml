@@ -1,5 +1,5 @@
 on: [push, pull_request]
-name: Twitter, together!
+name: Twitter, together, test!
 jobs:
   preview:
     name: Preview
